@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Todos</h2>
+    <h3>Todos</h3>
     <div class="legend">
       <span>Double click to mark as complete</span>
       <span>
